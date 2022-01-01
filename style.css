@@ -1,0 +1,93 @@
+.nav{
+    background-color: #2874F0;
+
+}
+.fk-img{
+    width: 75px;
+    height: 20px;
+}
+.logo{
+    margin-left: 200px;
+}
+.serch{
+   width: 470px;
+   padding: 0 16px;
+   border-radius: 2px 0 0 2px;
+   border: 0;
+   outline: 0 none;
+   font-size: 14px;
+   height: 36px;
+ margin-left: 29px;
+   
+}
+
+button{
+    border: none;
+    background-color: rgb(255, 255, 255);
+    height: 36px;
+}
+button.login{
+    color: #2874F0;
+    margin-left: 20px;
+    color: #2874f0;
+    font-weight: 500;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 2px;
+    height: 32px;
+    padding: 5px 40px;   
+    border: 1px
+ solid #dbdbdb;
+}
+.login-btn{
+    margin-left:20px ;
+}
+.mor{
+    margin-left: 50px;
+    color: #fff;
+    text-decoration: none;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 108px;
+    display: block;
+}
+.cart{
+    color: #fff;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+}
+.box{
+    margin-left: 20px;
+}
+.imag{
+    width: 100%;
+    height:110px;
+    background-color:#fff;
+
+}
+.home{
+    margin-top: 15px;
+   height: 70px;
+   width: 70px;
+   margin-left: 70px;
+}
+span.text{
+    text-decoration: none;
+    color: inherit;
+    border: none;
+    outline: none;
+    margin-left:76px;
+    
+}
+.fo{
+    width: 100%;
+    height: 80px;
+    background-color: azure;
+    
+}
+button.bs{
+    margin-left: 1260px;
+}
